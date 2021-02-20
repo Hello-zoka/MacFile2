@@ -1,0 +1,3 @@
+/Users/yurij/Documents/zaoch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yurij/Documents/zaoch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yurij/Documents/zaoch/cmake-build-debug/CMakeFiles/zaoch.dir

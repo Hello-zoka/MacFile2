@@ -1,0 +1,3 @@
+/Users/yurij/Documents/Tink20/day9(geom)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yurij/Documents/Tink20/day9(geom)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yurij/Documents/Tink20/day9(geom)/cmake-build-debug/CMakeFiles/day9_geom_.dir
